@@ -32,6 +32,7 @@ const hexColor = rawColor.split(' | ')[1];     // "#C0A0C0"
 
 const rawHAlign = row['H-Align'];              // "-4108 | Center"
 const alignString = rawHAlign.split(' | ')[1]; // "Center"
+```
 
 📄 License
 ----------
